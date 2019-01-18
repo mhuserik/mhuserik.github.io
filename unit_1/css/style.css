@@ -1,7 +1,13 @@
 body {
 	background-color: black;
+	text-align: center;
+	padding-top: 70px;
+
 }
+
 
 h1, p {
 	color: gold;
+	font-family: "Didot", Didot LT STD, serif;
 }
+
